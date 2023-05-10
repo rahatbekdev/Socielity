@@ -1,0 +1,1483 @@
+@media (max-width: 1440px) {
+
+}
+
+@media (max-width: 1200px) {
+
+}
+
+@media (max-width: 1024px) {
+    .container{
+        width: 90%;
+    }
+    .trustImg {
+        display: grid;
+        grid-template-columns: repeat(3, 3fr);
+    }
+
+    .header {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .header nav a{
+        font-size: 25px;
+        margin: 0 9px;
+    }
+    #your{
+        padding-top: 40px;
+    }
+    .yourOne h1{
+        line-height: 65px;
+    }
+    .yourOne p{
+        line-height: 37px;
+        text-align: center;
+        font-size: 29px;
+    }
+    .yourOne button{
+        height: 52px;
+        width: 188px;
+    }
+    .trust h1{
+        font-size: 45px;
+    }
+    .trust p{
+        font-size: 28px;
+        line-height: 32px;
+    }
+    .whyGroup h1{
+        font-size: 35px;
+    }
+    .whyGroup p{
+        font-size: 25px;
+        line-height: 31px;
+    }
+    .whyImg h1{
+        font-size: 26px;
+    }
+    .whyImg p{
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .whyImg{
+        display: flex;
+        justify-content: center;
+    }
+
+
+    .blockOne {
+        display: flex;
+        justify-content: center;
+    }
+    .textOne{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .textOne h1 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        font-size: 29px;
+        line-height: 48px;
+        color: #474747;
+    }
+
+    .textOne p {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 24px;
+        color: #666666;
+        margin: 15px 0;
+    }
+
+    .blockTwo {
+        display: flex;
+        justify-content: center;
+    }
+    .textTwo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .textTwo h1 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 40px;
+        color: #474747;
+    }
+
+    .textTwo p {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 400;
+        font-size: 19px;
+        line-height: 20px;
+        color: #666666;
+        margin: 20px 0;
+    }
+    .textThree{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .textThree h1 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        font-size: 23px;
+        line-height: 43px;
+        color: #474747;
+    }
+
+    .textThree p {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #666666;
+        margin: 20px 0;
+    }
+
+    .blockThree {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .whyImg {
+        display: flex;
+        grid-template-columns:repeat(3, 3fr);
+        gap: 1.5rem;
+    }
+
+    .SkylarGroup {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .skyText h1 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        line-height: 20px;
+        color: #474747;
+        font-size: 29px;
+    }
+
+    .skyText p {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 400;
+        font-size: 17px;
+        line-height: 15px;
+        color: #474747;
+    }
+    .freGroup h1{
+        font-size: 33px;
+    }
+    .freGroup p{
+        font-size: 26px;
+        line-height: 33px;
+    }
+    .skyText{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .skyText h2 {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 700;
+        font-size: 17px;
+        line-height: 20px;
+        color: #474747;
+        margin: 20px 0;
+    }
+
+    .group{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .they {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .they h1{
+        font-size: 29px;
+    }
+    .they p{
+        font-size: 20px;
+        margin: 20px 0;
+    }
+    .one img{
+        width: 850px;
+        height: 420px;
+    }
+    .two img{
+        width: 850px;
+        height: 420px;
+        margin-top: 20px;
+    }
+    .boxes select{
+        width: 747px;
+        height: 73px;
+    }
+    .images{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .boxes {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fotGroup {
+        display: flex;
+        justify-content: space-evenly;
+        /*margin-right: 80px;*/
+    }
+    .awardGroup h1{
+        font-size: 33px;
+
+    }
+
+
+}
+
+@media (max-width: 992px) {
+    .container{
+        width: 90%;
+    }
+    .trust p {
+        font-family: 'Segoe UI', sans-serif;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 20px;
+        text-align: center;
+        color: #666666;
+        /*margin: 20px 0;*/
+    }
+
+    .blockOne {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 80px;
+    }
+
+    .blockTwo {
+        margin-right: 80px;
+    }
+
+    .blockThree {
+        margin-right: 80px;
+    }
+
+    .SkylarGroup {
+        margin-right: 100px;
+    }
+
+    .images {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    .fotGroup {
+        /*margin-right: 150px;*/
+    }
+
+
+}
+
+@media (max-width: 768px) {
+    .container{
+        width: 90%;
+    }
+    .textOne{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        margin-right: 0;
+    }
+    .blockOne{
+        margin-right: 0;
+    }
+    .nav button{
+        display: none;
+    }
+    .nav{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .yourOne p{
+        font-size: 34px;
+        line-height: 43px;
+    }
+    .yourOne h1{
+        font-size: 33px;
+        line-height: 65px;
+    }
+    .trust h1{
+        font-size: 38px;
+    }
+    .trust p{
+        font-size: 23px;
+        line-height: 36px;
+        margin-right: 0;
+    }
+    .trustImg img{
+        margin-bottom: 40px;
+    }
+    .blockOne{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .blockOne img{
+        width: 547px;
+        height: 442px;
+    }
+    .blockOne h1{
+        font-size: 29px;
+        text-align: center;
+    }
+    .blockOne p{
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 29px;
+        text-align: center;
+    }
+    .blockTwo{
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 0;
+    }
+    .blockTwo h1{
+        font-size: 28px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .blockTwo p{
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 27px;
+        text-align: center;
+    }
+    .blockTwo img{
+        width: 437px;
+        height: 352px;
+        margin: 30px 0;
+    }
+    #imgThree{
+        padding-top: 30px;
+    }
+    .blockThree{
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 0;
+    }
+    .blockThree img{
+        width: 495px;
+        height: 382px;
+    }
+    .blockThree h1{
+        font-size: 28px;
+        line-height: 45px;
+        text-align: center;
+    }
+    .blockThree p{
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 27px;
+        text-align: center;
+    }
+    .textTwo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .textThree{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .whyGroup h1{
+        font-size: 38px;
+    }
+    .whyGroup p{
+        font-size: 13px;
+        line-height: 33px;
+        margin: 10px 0;
+    }
+    .boxes select{
+        width: 660px;
+        height: 59px;
+    }
+    .whyImg{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    #Skylar{
+        padding-top: 40px;
+    }
+    .SkylarGroup{
+        display: flex;
+        flex-wrap: wrap;
+        margin-right: 0;
+    }
+    .SkylarGroup img{
+        width: 384px;
+        height: 300px;
+    }
+    .skyText{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .skyText h1{
+        font-size: 22px;
+        text-align: center;
+    }
+    .skyText p{
+        font-size: 21px;
+        text-align: center;
+        padding: 10px 0;
+    }
+    .skyText h2{
+        font-size: 21px;
+        line-height: 28px;
+        text-align: center;
+    }
+    .group{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .they {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .they h1{
+        font-size: 29px;
+    }
+    .they p{
+        font-size: 20px;
+        margin: 20px 0;
+        text-align: center;
+    }
+    .one img{
+        width: 660px;
+        height: 380px;
+    }
+    .two img{
+        width: 660px;
+        height: 380px;
+        margin-top: 20px;
+    }
+    .freGroup h1{
+        font-size: 36px;
+        text-align: center;
+    }
+    .freGroup p{
+        font-size: 25px;
+        line-height: 32px;
+        text-align: center;
+        margin-right: 0;
+    }
+    .awardGroup h1{
+        font-size: 31px;
+    }
+    .awardGroup p{
+        font-size: 13px;
+        line-height: 15px;
+        margin-right: 0;
+    }
+    .images{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .fotGroup{
+        display: flex;
+        justify-content: space-around;
+        /*margin-left: 150px;*/
+    }
+    .Company{
+        margin: 0 20px;
+    }
+    .contact{
+        margin-left: 20px;
+    }
+    .images{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
+
+@media (max-width: 576px) {
+    .container{
+        width: 90%;
+    }
+    .nav{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+    }
+    .header nav a{
+        font-size: 13px;
+        margin: 0 7px;
+    }
+    .yourOne h1{
+        font-size: 24px;
+        line-height: 39px;
+    }
+    .yourOne p{
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .trust p{
+        font-size: 18px;
+        line-height: 30px;
+        text-align: center;
+    }
+    .trustImg{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .trustImg img{
+        margin-bottom: 12px;
+    }
+    #imgOne{
+        padding-top: 20px;
+    }
+    .blockOne img{
+        width: 410px;
+        height: 293px;
+        margin-left: 0;
+    }
+    .blockOne p{
+        font-size: 15px;
+    }
+    .blockOne h1{
+        font-size: 18px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .blockTwo h1{
+        font-size: 18px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .blockTwo p{
+        font-weight: 600;
+        font-size: 13px;
+    }
+    .blockTwo img{
+        width: 438px;
+        height: 362px;
+    }
+    .blockThree img{
+        width: 463px;
+        height: 365px;
+        margin-left: 50px;
+    }
+    .blockThree h1{
+        font-size: 19px;
+        line-height: 37px;
+    }
+    .blockThree p{
+        font-size: 13px;
+    }
+    .whyGroup h1{
+        font-size: 32px;
+    }
+    .whyGroup p{
+        font-size: 11px;
+        font-weight: 400;
+    }
+    .boxOne{
+        width: 445px;
+        height: 297px;
+    }
+    .boxTwo{
+        width: 445px;
+        height: 297px;
+    }
+    .boxThree{
+        width: 445px;
+        height: 297px;
+    }
+    .boxFor{
+        width: 445px;
+        height: 297px;
+    }
+    .boxFive{
+        width: 445px;
+        height: 297px;
+    }
+    .boxSex{
+        width: 445px;
+        height: 297px;
+    }
+    .boxSeven{
+        width: 445px;
+        height: 297px;
+    }
+    .boxLast{
+        width: 445px;
+        height: 297px;
+    }
+    .SkylarGroup img{
+        width: 400px;
+        height: 307px;
+        margin-left: 0px;
+    }
+    .skyText h2{
+        font-size: 15px;
+        line-height: 31px;
+    }
+    .group{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .they {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .they h1{
+        font-size: 29px;
+    }
+    .they p{
+        font-size: 20px;
+        margin: 20px 0;
+    }
+    .one img{
+        width: 480px;
+        height: 290px;
+    }
+    .two img{
+        width: 480px;
+        height: 290px;
+        margin-top: 20px;
+    }
+    .freGroup p{
+        font-size: 14px;
+        line-height: 32px;
+    }
+    .boxes select{
+        width: 485px;
+    }
+    .tose p{
+        font-size: 14px;
+        line-height: 26px;
+    }
+    .fotGroup{
+        display: flex;
+        justify-content: center;
+    }
+    .Company{
+        margin: 0 10px;
+    }
+    .contact{
+        margin-left: 10px;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .container{
+        width: 90%;
+    }
+    .header h1{
+        align-items: start;
+        display: flex;
+        font-size: 26px;
+    }
+    .boxes select{
+        width: 406px;
+    }
+    .subText input{
+        width: 444px;
+    }
+    /*.fotGroup{*/
+    /*    display: flex;*/
+    /*}*/
+    .textOne{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .textTwo{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .blockTwo h1{
+        font-size: 17px;
+    }
+    .blockOne p{
+        font-size: 11px;
+
+    }
+    #imgTwo{
+        padding-top: 40px;
+    }
+    .blockTwo p{
+        font-size: 11px;
+    }
+    .blockTwo img{
+        width: 364px;
+        height: 257px;
+    }
+    .blockThree img{
+        width: 370px;
+        height: 300px;
+        margin-left: 0;
+    }
+    .blockThree h1{
+        font-size: 16px;
+    }
+    .blockThree p{
+        font-size: 10px;
+    }
+    .boxOne{
+        width: 399px;
+        height: 271px;
+    }
+    .boxTwo{
+        width: 399px;
+        height: 271px;
+    }
+    .boxThree{
+        width: 399px;
+        height: 271px;
+    }
+    .boxFor{
+        width: 399px;
+        height: 271px;
+    }
+    .boxFive{
+        width: 399px;
+        height: 271px;
+    }
+    .boxSex{
+        width: 399px;
+        height: 271px;
+    }
+    .boxSeven{
+        width: 399px;
+        height: 271px;
+    }
+    .boxLast{
+        width: 399px;
+        height: 271px;
+    }
+
+    .textThree{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .skyText{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    .subText h1{
+        font-size: 24px;
+        line-height: 35px;
+    }
+    .SkylarGroup{
+        margin-right: 16px;
+    }
+    .SkylarGroup img{
+        width: 255px;
+        height: 200px;
+    }
+    .group{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .they {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .they h1{
+        font-size: 29px;
+    }
+    .they p{
+        font-size: 20px;
+        margin: 20px 0;
+    }
+    .one img{
+        width: 412px;
+        height: 256px;
+    }
+    .two img{
+        width: 412px;
+        height: 256px;
+        margin-top: 20px;
+    }
+    #Frequently{
+        padding-top: 30px;
+    }
+    .freGroup p{
+        margin-right: 8px;
+    }
+    .awardGroup p{
+        margin-right: 4px;
+    }
+    .images{
+        display: flex;
+        justify-content: center;
+    }
+    .whyGroup p{
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .fotGroup{
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+
+    }
+
+}
+
+@media (max-width: 414px) {
+    .container{
+        width: 90%;
+    }
+    .yourOne h1{
+        font-size: 17px;
+        line-height: 36px;
+    }
+    .yourOne p{
+        font-size: 12px;
+        line-height: 29px;
+    }
+    .yourOne button{
+        height: 37px;
+        width: 140px;
+    }
+    .trust h1{
+        font-size: 27px;
+    }
+    .trust p{
+        font-size: 15px;
+        line-height: 28px;
+    }
+    .trustImg img{
+        width: 113px;
+        height: 58px;
+    }
+    .blockOne img{
+        width: 325px;
+        height: 246px;
+    }
+    .blockOne h1{
+        font-size: 17px;
+        line-height: 26px;
+    }
+    .blockOne p{
+        font-size: 11px;
+    }
+    .textOne button{
+        width: 142px;
+        height: 37px;
+    }
+    .blockTwo h1{
+        font-size: 20px;
+    }
+    .blockTwo p{
+        font-size: 11px;
+    }
+    .blockTwo img{
+        width: 347px;
+        height: 234px;
+    }
+    .blockTwo{
+        margin-right: -4px;
+    }
+    .blockThree img{
+        width: 330px;
+        height: 270px;
+    }
+    .textTwo button{
+        width: 146px;
+        height: 38px;
+    }
+    .blockThree h1{
+        font-size: 16px;
+        line-height: 25px;
+    }
+    .blockThree p{
+        font-size: 11px;
+        line-height: 18px;
+    }
+    .textThree button{
+        width: 136px;
+        height: 35px;
+    }
+    #why{
+        padding-top: 30px;
+    }
+    .whyGroup h1{
+        font-size: 26px;
+    }
+    .whyGroup p{
+        font-size: 14px;
+    }
+    .boxOne{
+        width: 346px;
+        height: 241px;
+    }
+    .boxTwo{
+        width: 346px;
+        height: 241px;
+    }
+    .boxThree{
+        width: 346px;
+        height: 241px;
+    }
+    .boxFor{
+        width: 346px;
+        height: 241px;
+    }
+    .boxFive{
+        width: 346px;
+        height: 241px;
+    }
+    .boxSex{
+        width: 346px;
+        height: 241px;
+    }
+    .boxSeven{
+        width: 346px;
+        height: 241px;
+    }
+    .boxLast{
+        width: 346px;
+        height: 241px;
+    }
+    .SkylarGroup img{
+        width: 302px;
+        height: 252px;
+    }
+    .subText p{
+        font-size: 10px;
+    }
+    .skyText h2{
+        font-size: 10px;
+        line-height: 31px;
+    }
+    .group{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .they {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .they h1{
+        font-size: 18px;
+    }
+    .they p{
+        font-size: 16px;
+        margin: 20px 0;
+    }
+    .one img{
+        width: 364px;
+        height: 227px;
+    }
+    .two img{
+        width: 364px;
+        height: 227px;
+        margin-top: 20px;
+    }
+    .boxes select{
+        width: 356px;
+    }
+    .subText p{
+        font-size: 14px;
+    }
+    .subText input{
+        width: 380px;
+    }
+    .subText button{
+        display: none;
+    }
+
+}
+
+
+@media (max-width: 376px) {
+    .container{
+        width: 90%;
+    }
+    #Socielity{
+        padding-top: 20px;
+    }
+    #your{
+        padding-top: 20px;
+    }
+    .header nav a{
+        margin: 0 5px;
+    }
+    #imgOne{
+        padding-top: 5px;
+    }
+    .nav a{
+        font-size: 14px;
+    }
+    .yourOne h1{
+        font-size: 16px;
+        line-height: 40px;
+    }
+    .yourOne p{
+        font-size: 11px;
+        line-height: 33px;
+    }
+    .trustImg img{
+        width: 162px;
+        height: 46px;
+    }
+    .trust h1{
+        font-size: 30px;
+    }
+    .trust p{
+        font-size: 11px;
+        line-height: 24px;
+    }
+    .trustImg{
+        justify-content: space-around;
+    }
+    .one img{
+        width: 317px;
+        height: 202px;
+    }
+    .two img{
+        width: 317px;
+        height: 202px;
+    }
+    .boxes{
+        padding-top: 20px;
+    }
+    .blockOne img{
+        width: 306px;
+        height: 241px;
+        padding: 20px 0;
+    }
+    .blockOne h1{
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .blockOne p{
+        font-size: 11px;
+        line-height: 13px;
+    }
+    .blockTwo{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .textTwo{
+        margin-left: 0px;
+
+    }
+    .blockTwo h1{
+        font-size: 14px;
+    }
+    .blockTwo p{
+        font-size: 9px;
+    }
+    .blockTwo img{
+        margin: 50px 0;
+        width: 310px;
+        height: 231px;
+    }
+    .blockThree img{
+        width: 299px;
+        height: 247px;
+    }
+    #imgThree{
+        padding-top: 40px;
+    }
+    #why{
+        padding-top: 50px;
+    }
+    .whyGroup h1{
+        font-size: 24px;
+    }
+    .whyGroup p{
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .boxOne{
+        width: 306px;
+        height: 254px;
+    }
+    .boxTwo{
+        width: 306px;
+        height: 254px;
+    }
+    .boxThree{
+        width: 306px;
+        height: 254px;
+    }
+    .boxFor{
+        width: 306px;
+        height: 254px;
+    }
+    .boxFive{
+        width: 306px;
+        height: 254px;
+    }
+    .boxSex{
+        width: 306px;
+        height: 254px;
+    }
+    .boxSeven{
+        width: 306px;
+        height: 254px;
+    }
+    .boxLast{
+        width: 306px;
+        height: 254px;
+    }
+    .SkylarGroup img{
+        width: 299px;
+        height: 273px;
+    }
+    .skyText p{
+        font-size: 13px;
+    }
+    .skyText h1{
+        margin: 10px 0;
+    }
+    .skyText h2{
+        margin: 10px 0;
+    }
+    #Frequently{
+        padding-top: 50px;
+    }
+    .freGroup h1{
+        font-size: 28px;
+    }
+    .freGroup p{
+        margin-right: 1px;
+        font-size: 12px;
+        line-height: 27px;
+    }
+    .boxes select{
+        width: 288px;
+        height: 50px;
+        font-size: 12px;
+    }
+    #award{
+        padding-top: 50px;
+    }
+    .awardGroup h1{
+        font-size: 21px;
+    }
+    .awardGroup p{
+        margin-right: 1px;
+        font-size: 11px;
+        line-height: 22px;
+    }
+    #Subscribe{
+        padding: 50px 0;
+    }
+    .subText input{
+        width: 315px;
+    }
+
+}
+
+@media (max-width: 320px) {
+    .container{
+        width: 90%;
+    }
+    #Socielity{
+        padding-top: 9px;
+    }
+    .nav{
+        text-align: center;
+    }
+    .header nav a{
+        font-size: 11px;
+        line-height: 19px;
+    }
+    #your{
+        padding-top: 25px;
+    }
+    .yourOne h1{
+        font-size: 15px;
+        line-height: 31px;
+    }
+    .yourOne p{
+        font-size: 10px;
+        line-height: 27px;
+        margin: 8px 0;
+    }
+    .yourOne button{
+        width: 117px;
+        height: 32px;
+        font-size: 12px;
+    }
+    .you h2{
+        font-size: 13px;
+        line-height: 28px;
+    }
+    #Trusted{
+        padding-top: 20px;
+    }
+    .trust h1{
+        font-size: 20px;
+        line-height: 31px;
+    }
+    .trust p{
+        font-size: 10px;
+        line-height: 23px;
+        margin: 3px 0;
+    }
+    .trustImg img{
+        margin-bottom: 3px;
+        width: 113px;
+        height: 39px;
+    }
+    .one img{
+        width: 283px;
+        height: 190px;
+    }
+    .two img{
+        width: 283px;
+        height: 190px;
+    }
+    .blockOne img{
+        width: 248px;
+        height: 236px;
+        padding: 10px 0;
+    }
+    .blockOne h1{
+        font-size: 17px;
+        line-height: 21px;
+        text-align: center;
+    }
+    #imgTwo{
+        padding-top: 30px;
+    }
+    .blockTwo h1{
+        font-size: 12px;
+    }
+    .blockTwo p{
+        font-size: 11px;
+        line-height: 20px;
+        margin: 11px 0;
+    }
+    .blockTwo img{
+        width: 252px;
+        height: 188px;
+        margin: 19px 0;
+    }
+    .blockThree img{
+        width: 252px;
+        height: 188px;
+    }
+    .blockThree h1{
+        font-size: 16px;
+        line-height: 21px;
+        text-align: center;
+    }
+    .textOne button{
+        width: 117px;
+        height: 32px;
+        font-size: 12px;
+    }
+    .textTwo button{
+        width: 117px;
+        height: 32px;
+        font-size: 12px;
+    }
+    .blockThree p{
+        font-size: 11px;
+        line-height: 15px;
+    }
+    .textThree input{
+        width: 124px;
+        height: 37px;
+    }
+    .textThree button{
+        width: 117px;
+        height: 32px;
+        font-size: 12px;
+    }
+    #why{
+        padding-top: 20px;
+    }
+    .whyGroup p{
+        margin: 10px 0;
+        font-size: 11px;
+        line-height: 21px;
+    }
+    .boxOne{
+        width: 251px;
+        height: 233px;
+    }
+    .boxTwo{
+        width: 251px;
+        height: 233px;
+    }
+    .boxThree{
+        width: 251px;
+        height: 233px;
+    }
+    .boxFor{
+        width: 251px;
+        height: 233px;
+    }
+    .boxFive{
+        width: 251px;
+        height: 233px;
+    }
+    .boxSex{
+        width: 251px;
+        height: 233px;
+    }
+    .boxSeven{
+        width: 251px;
+        height: 233px;
+    }
+    .boxLast{
+        width: 251px;
+        height: 233px;
+    }
+    .SkylarGroup img{
+        width: 222px;
+        height: 200px;
+    }
+    .skyText h1{
+        padding-top: 10px;
+    }
+    #Frequently{
+        padding-top: 20px;
+    }
+    .boxes select{
+        width: 232px;
+        height: 45px;
+        display: grid;
+        /*gap: 10px 10px;*/
+
+    }
+    .freGroup h1{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .awardGroup h1{
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .boxes{
+        gap: 7px 20px;
+        justify-content: center;
+        padding-top: 13px;
+    }
+    .subText input{
+        width: 276px;
+        border-radius: 5px;
+    }
+    .fotGroup{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        flex-direction: column;
+
+    }
+    .fotGroup h1{
+        padding: 9px 0;
+        text-align: center;
+
+    }
+    .fotGroup p{
+        font-size: 13px;
+        line-height: 26px;
+    }
+    .Company p{
+        text-align: center;
+    }
+    .SocialityTwo p{
+        font-size: 12px;
+        line-height: 22px;
+        text-align: center;
+    }
+    .Socielit p{
+        text-align: center;
+    }
+    .contact{
+        margin-left: 0;
+        display: flex;
+        flex-direction: column;
+    }
+    #imgThree{
+        padding-top: 10px;
+    }
+    .contact ion-icon{
+        padding-right: 5px;
+    }
+
+
+}
+
+
